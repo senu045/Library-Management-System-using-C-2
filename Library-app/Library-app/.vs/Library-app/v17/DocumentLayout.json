@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|c:\\users\\dehem\\documents\\c#\\library-app\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\stubook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:stubook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\completebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:completebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\viewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:viewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\viewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:viewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|C:\\Users\\dehem\\Documents\\C#\\Library-app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03B1B446-7DB1-47AA-8503-2C976E1EB306}|Library-app.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T04:16:01.395Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewBook.cs",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\ViewBook.cs",
+              "RelativeDocumentMoniker": "ViewBook.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\ViewBook.cs",
+              "RelativeToolTip": "ViewBook.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowIIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:45:57.979Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:32:54.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StuBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\StuBook.cs",
+              "RelativeDocumentMoniker": "StuBook.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\StuBook.cs [Design]",
+              "RelativeToolTip": "StuBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:13:26.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IssueBooks.cs",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\IssueBooks.cs",
+              "RelativeDocumentMoniker": "IssueBooks.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\IssueBooks.cs",
+              "RelativeToolTip": "IssueBooks.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAYwPUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:07:00.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\Dashboard.cs*",
+              "RelativeToolTip": "Dashboard.cs*",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAEwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:20:11.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompleteBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\CompleteBook.cs",
+              "RelativeDocumentMoniker": "CompleteBook.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\CompleteBook.cs [Design]",
+              "RelativeToolTip": "CompleteBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:11:53.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReturnBook.cs",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\ReturnBook.cs",
+              "RelativeDocumentMoniker": "ReturnBook.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\ReturnBook.cs",
+              "RelativeToolTip": "ReturnBook.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAswG8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:16:29.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddBook.cs",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\AddBook.cs",
+              "RelativeDocumentMoniker": "AddBook.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\AddBook.cs",
+              "RelativeToolTip": "AddBook.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwEAAAACiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:11:31.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\ViewStudent.cs",
+              "RelativeDocumentMoniker": "ViewStudent.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\ViewStudent.cs [Design]",
+              "RelativeToolTip": "ViewStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T06:40:12.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReturnBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\ReturnBook.cs",
+              "RelativeDocumentMoniker": "ReturnBook.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\ReturnBook.cs [Design]",
+              "RelativeToolTip": "ReturnBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:01:50.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\ViewBook.cs",
+              "RelativeDocumentMoniker": "ViewBook.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\ViewBook.cs [Design]",
+              "RelativeToolTip": "ViewBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:53:00.818Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewStudent.cs",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\ViewStudent.cs",
+              "RelativeDocumentMoniker": "ViewStudent.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\ViewStudent.cs",
+              "RelativeToolTip": "ViewStudent.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAkwLQAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T06:41:46.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\AddStudent.cs",
+              "RelativeDocumentMoniker": "AddStudent.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\AddStudent.cs [Design]",
+              "RelativeToolTip": "AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:16:42.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\AddBook.cs",
+              "RelativeDocumentMoniker": "AddBook.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\AddBook.cs [Design]",
+              "RelativeToolTip": "AddBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:37:22.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\AddStudent.cs",
+              "RelativeDocumentMoniker": "AddStudent.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\AddStudent.cs",
+              "RelativeToolTip": "AddStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:36:12.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dehem\\Documents\\C#\\Library-app\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:26:49.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
